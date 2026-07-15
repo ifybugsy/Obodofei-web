@@ -33,6 +33,23 @@ export default function Gallery() {
       alt: 'Team meeting',
       title: 'Leadership Team Meeting',
     },
+    {
+      id: '4',
+      src: '/images/nnpc group.jpeg',
+      alt: 'NNPC GROUP',
+      title: 'Meeting with some official in NNPC'
+    },
+    {
+      id: '5',
+      src: '/images/pix.jpeg',
+      alt: 'Meeting with Officials',
+      title: 'meeting'
+    }
+
+
+  
+
+
     // ADD NEW IMAGES HERE - Developer uploads only
     // {
     //   id: '4',
