@@ -29,7 +29,7 @@ export default function Gallery() {
     },
     {
       id: '3',
-      src: '/images/team-meeting.png',
+      src: '/images/hand shake.jpeg',
       alt: 'Team meeting',
       title: 'Leadership Team Meeting',
     },
@@ -58,7 +58,25 @@ export default function Gallery() {
       src: '/images/team.jpeg',
       alt: '',
       title: ''
+    },
+
+    {
+      id: '8',
+      src: '/images/meeting of the officials.jpeg',
+      alt: '',
+      title: ''
+    },
+
+    {
+      id: '9',
+      src: '/images/a group photo of officials.jpeg',
+      alt: '',
+      title: ''
     }
+
+
+
+
 
 
   

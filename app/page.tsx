@@ -52,7 +52,7 @@ export default function Home() {
       title: 'Gas Processing',
       description: 'Advanced CNG processing facility at the forefront of energy commercialization.',
       details: [
-        '25 MMSCFD Compressed Natural Gas processing capacity',
+        '25 MMSCFD Compressed Natural Gas processing capacity (Start-up Project)',
         'State-of-the-art compression technology',
         'CNG trailer filling stations',
         'Gas-delivery pipeline infrastructure',
@@ -64,7 +64,7 @@ export default function Home() {
       title: 'Power Generation',
       description: 'Reliable gas-fired power generation supporting energy transition.',
       details: [
-        '70 Megawatt gas-fired power plant',
+        '70 Megawatt Gas-fired Power Plant (Start-up Project)',
         'Clean energy production',
         'Regional electricity supply',
         'Industrial park power solutions',
@@ -91,7 +91,7 @@ export default function Home() {
               Flagship Projects & Capabilities
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              At the heart of our operations is the Bayelsa CNG Mother Station Project, serving as a model for gas commercialization across the Niger Delta.
+              At the heart of our operations is the Bayelsa CNG Mother Station Project, serving as a model for gas commercialization.
             </p>
           </div>
 

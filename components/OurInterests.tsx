@@ -22,7 +22,7 @@ The Bayelsa CNG Mother Station is designed to accelerate the transition from liq
           <div className="space-y-6">
             <div>
               <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold text-foreground mb-8 text-primary">
-                OUR INTERESTS
+                OUR INTEREST
               </h2>
             </div>
 
@@ -36,7 +36,7 @@ The Bayelsa CNG Mother Station is designed to accelerate the transition from liq
               <div className="bg-gradient-to-r from-primary/15 to-secondary/15 border-l-4 border-primary p-5 rounded-lg my-6">
                 <p className="text-base font-semibold text-primary mb-2 uppercase tracking-wide">Key Achievements</p>
                 <p className="text-lg text-foreground font-bold leading-relaxed">
-                  We have also secured our Gas Sales agreement with Nigerian Gas Marketing Limited and the License to Establish a Compressed Natural Gas Plant.
+                  We have secured our Gas Sales Agreement with Nigerian Gas Marketing Limited and the License to Establish a Compressed Natural Gas Plant in Bayelsa State, Nigeria.
                 </p>
               </div>
 
