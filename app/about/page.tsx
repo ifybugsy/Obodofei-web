@@ -125,7 +125,7 @@ export default function AboutPage() {
       <section id="our-interests-full" className="w-full py-16 md:py-24 bg-gradient-to-b from-background to-muted/30">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold mb-8 text-foreground">Our Interests</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-8 text-foreground">Our Interest</h2>
             
             <div className="space-y-6 text-lg text-muted-foreground leading-relaxed">
               <p>
