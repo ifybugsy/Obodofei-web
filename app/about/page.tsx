@@ -1,7 +1,6 @@
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import Hero from '@/components/Hero'
-import TeamCard from '@/components/TeamCard'
 import { CheckCircle } from 'lucide-react'
 
 export default function AboutPage() {
@@ -12,16 +11,6 @@ export default function AboutPage() {
     { title: 'Excellence', description: 'Commitment to highest standards' },
     { title: 'Teamwork', description: 'Collaborative approach to success' },
     { title: 'Professionalism', description: 'Expert service delivery at all times' },
-  ]
-
-  const leadership = [
-    { name: 'Engr. Michael Bayo Akinola', title: 'Chairman', image: '/leadership/michael-akinola.jpg' },
-    { name: 'Hon. Ken Embelede', title: 'Managing Director / CEO', image: '/leadership/ken-embelede.jpg' },
-    { name: 'Ombe', title: 'Director, Policy', image: '/leadership/ombe.jpg' },
-    { name: 'Engr. Pathfinder Araye (COREN)', title: 'Director, Engineering', image: '/leadership/pathfinder-araye.jpg' },
-    { name: 'Lady Irene Tuguemi Digitemie', title: 'Board Director', image: '/leadership/irene-tuguemi.jpg' },
-    { name: 'Suileman', title: 'Board Director', image: '/leadership/suileman.jpg' },
-    { name: 'High Chief Ebizimor Preye Raphael', title: 'Board Director', image: '/leadership/high-chief-raphael.jpg' },
   ]
 
   return (
@@ -102,28 +91,6 @@ export default function AboutPage() {
                 </div>
                 <p className="text-muted-foreground">{value.description}</p>
               </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Leadership Team */}
-      <section className="w-full py-16 md:py-24 bg-card">
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">Leadership Team</h2>
-            <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Seasoned professionals with deep expertise in energy infrastructure and strategic business development.
-            </p>
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {leadership.map((member, index) => (
-              <TeamCard
-                key={index}
-                name={member.name}
-                title={member.title}
-              />
             ))}
           </div>
         </div>

@@ -66,7 +66,7 @@ export default function Hero({
             {title}
           </h1>
           {description && (
-            <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-2xl leading-relaxed">
+            <p className="text-lg md:text-xl text-white font-bold mb-8 max-w-2xl leading-relaxed">
               {description}
             </p>
           )}
