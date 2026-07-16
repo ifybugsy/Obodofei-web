@@ -17,15 +17,15 @@ export default function Gallery() {
   const [images] = useState<GalleryImage[]>([
     {
       id: '1',
-      src: '/images/industrial-facility.png',
+      src: '/images/Surveying.jpeg',
       alt: 'Industrial facility',
       title: 'State-of-the-Art Industrial Facility',
     },
     {
       id: '2',
-      src: '/images/cng-plant.png',
-      alt: 'CNG plant',
-      title: 'CNG Processing Plant',
+      src: '/images/field.jpeg',
+      alt: 'CNG',
+      title: '',
     },
     {
       id: '3',
@@ -44,6 +44,20 @@ export default function Gallery() {
       src: '/images/pix.jpeg',
       alt: 'Meeting with Officials',
       title: 'meeting'
+    },
+
+    {
+      id: '6',
+      src: '/images/signed.jpeg',
+      alt: '',
+      title: ''
+    },
+
+    {
+      id: '7',
+      src: '/images/team.jpeg',
+      alt: '',
+      title: ''
     }
 
 
