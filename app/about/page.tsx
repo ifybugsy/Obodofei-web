@@ -123,6 +123,11 @@ export default function AboutPage() {
 
             <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
               <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
+              <img 
+                src="/images/ken-embelede.jpg" 
+                alt="Hon. Ken Embelede"
+                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
+              />
                 <div className="text-center">
                   <p className="text-sm text-muted-foreground">Photo placeholder</p>
                   <p className="text-xs text-muted-foreground mt-1">Add image here</p>
