@@ -329,7 +329,84 @@ export default function Gallery() {
 
     {
       id: '46',
-      src: '/images/working.jpeg',
+      src: '/images/white men in the meeting.jpeg',
+      alt: '',
+      title: '', 
+    },
+
+     {
+      id: '47',
+      src: '/images/group message md.jpeg',
+      alt: '',
+      title: '', 
+    },
+
+     {
+      id: '48',
+      src: '/images/field group pix.jpeg',
+      alt: '',
+      title: '', 
+    },
+
+     {
+      id: '49',
+      src: '/images/trailer supply.jpeg',
+      alt: '',
+      title: '', 
+    },
+
+     {
+      id: '50',
+      src: '/images/road map pix.jpeg',
+      alt: '',
+      title: '', 
+    },
+
+    {
+      id: '50',
+      src: '/images/with the ceo.jpeg',
+      alt: '',
+      title: '', 
+    },
+
+    {
+      id: '50',
+      src: '/images/in the field of work.jpeg',
+      alt: '',
+      title: '', 
+    },
+
+    {
+      id: '50',
+      src: '/images/in a fine group.jpeg',
+      alt: '',
+      title: '', 
+    },
+
+    {
+      id: '50',
+      src: '/images/empty land field.jpeg',
+      alt: '',
+      title: '', 
+    },
+
+    {
+      id: '50',
+      src: '/images/land fill.jpeg',
+      alt: '',
+      title: '', 
+    },
+
+    {
+      id: '50',
+      src: '/images/in a field of working.jpeg',
+      alt: '',
+      title: '', 
+    },
+
+    {
+      id: '50',
+      src: '/images/sand.jpeg',
       alt: '',
       title: '', 
     }
