@@ -227,7 +227,7 @@ export default function AboutPage() {
                 <img 
                 src="/images/ombe.jpg" 
                 alt="Eyeoyagha Ombe"
-                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
+                className="h-64 md:h-72 w-full object-contain border-b border-border/50"
               />
               </div>
               <div className="p-6 text-center">
@@ -237,11 +237,7 @@ export default function AboutPage() {
             </div>
           </div>
 
-          {/* Instructions */}
-          <div className="mt-12 p-6 rounded-2xl bg-gradient-to-br from-accent/10 to-primary/10 border border-accent/30 text-center">
-           {/* <p className="text-sm font-semibold text-foreground">To add member photos, replace the placeholder areas with image src paths or use the public/images/leadership/ folder to store professional headshots.</p>
-          */}
-          </div>
+        
         </div>
       </section>
 
