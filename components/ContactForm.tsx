@@ -46,7 +46,7 @@ export default function ContactForm() {
           <div className="flex gap-3">
             <MapPin className="h-5 w-5 text-primary flex-shrink-0 mt-0.5" />
             <p className="text-sm text-muted-foreground">
-              13 Lord Lugard Street, Asokoro, FCT Abuja, Nigeria
+              MARVELLOUS HOUSE, Plot 1309 Kaura District, Behind Dubai Market, Abuja.
             </p>
           </div>
           <div className="flex gap-3">
@@ -71,7 +71,7 @@ export default function ContactForm() {
             <Phone className="h-5 w-5 text-secondary flex-shrink-0 mt-0.5" />
             <div className="text-sm text-muted-foreground">
               <p>+234 (0) 7032159915</p>
-              <p>+234 (0) 9064027227</p>
+              <p>+234 (0) 9064027227</p> 
             </div>
           </div>
         </div>
@@ -101,7 +101,7 @@ export default function ContactForm() {
             type="text"
             id="name"
             name="name"
-            value={formData.name}
+            value={formData.name} 
             onChange={handleChange}
             required
             className="w-full px-4 py-2.5 border border-border rounded-xl focus:outline-none focus:ring-2 focus:ring-primary bg-background transition-all duration-300 hover:border-primary/50 focus:border-primary"

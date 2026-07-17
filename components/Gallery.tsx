@@ -91,7 +91,7 @@ export default function Gallery() {
 
     {
       id: '12',
-      src: '/images/The chairman.jpeg',
+      src: '/images/official pix.jpeg',
       alt: '',
       title: ''
     },
@@ -265,18 +265,74 @@ export default function Gallery() {
     },
 
     {
-      id: '36',
+      id: '37',
       src: '/images/group pictures of engineers.jpeg',
       alt: '', 
       title: '',
     },
 
     {
-      id: '36',
+      id: '38',
       src: '/images/engineers .jpeg',
       alt: '', 
       title: '',
     },
+
+    {
+      id: '39',
+      src: '/images/record.jpeg',
+      alt: '',
+      title: '',
+    },
+
+    {
+      id: '40',
+      src: '/images/Prayers for official.jpeg',
+      alt: '',
+      title: '',
+    },
+
+    {
+      id: '41',
+      src: '/images/empty land.jpeg',
+      alt: '',
+      title: '',
+    },
+
+    {
+      id: '42',
+      src: '/images/certified engineers.jpeg',
+      alt: '',
+      title:'',
+    },
+
+    {
+      id: '43',
+      src: '/images/at the field of work.jpeg',
+      alt: '',
+      title:'',
+    },
+
+    {
+      id: '43',
+      src: '/images/vased land for .jpeg',
+      alt: '',
+      title:'',
+    },
+
+    {
+      id: '45',
+      src: '/images/at the field for work.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '46',
+      src: '/images/working.jpeg',
+      alt: '',
+      title: '', 
+    }
 
 
 
