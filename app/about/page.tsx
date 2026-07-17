@@ -152,10 +152,11 @@ export default function AboutPage() {
             {/* Row 2 */}
             <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
               <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
-                <div className="text-center">
-                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
-                  <p className="text-xs text-muted-foreground mt-1">Add image here</p>
-                </div>
+                <img 
+                src="/images/pathfinder-araye.jpg" 
+                alt="Engr. Pathfinder Araye (COREN)"
+                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
+              />
               </div>
               <div className="p-6 text-center">
                 <h3 className="font-bold text-lg text-foreground mb-2">Engr. Pathfinder Araye</h3>
@@ -166,11 +167,13 @@ export default function AboutPage() {
 
             <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
               <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
-                <div className="text-center">
-                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
-                  <p className="text-xs text-muted-foreground mt-1">Add image here</p>
-                </div>
+                <img 
+                src="/images/irene-tuguemi.jpg" 
+                alt="Mrs. Irene Digitemie Opuene"
+                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
+              />
               </div>
+
               <div className="p-6 text-center">
                 <h3 className="font-bold text-lg text-foreground mb-2">Mrs. Irene Digitemie Opuene</h3>
                 <p className="text-sm font-semibold text-primary">BOARD DIRECTOR</p>
@@ -193,10 +196,11 @@ export default function AboutPage() {
             {/* Row 3 */}
             <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
               <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
-                <div className="text-center">
-                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
-                  <p className="text-xs text-muted-foreground mt-1">Add image here</p>
-                </div>
+                <img 
+                src="/images/high-chief-raphael.jpg" 
+                alt="Ebizimor Preye Raphael"
+                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
+              />
               </div>
               <div className="p-6 text-center">
                 <h3 className="font-bold text-lg text-foreground mb-2">Ebizimor Preye Raphael</h3>
@@ -206,10 +210,11 @@ export default function AboutPage() {
 
             <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
               <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
-                <div className="text-center">
-                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
-                  <p className="text-xs text-muted-foreground mt-1">Add image here</p>
-                </div>
+                <img 
+                src="/images/suileman.jpg" 
+                alt="Adigambo A. Suleiman"
+                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
+              />
               </div>
               <div className="p-6 text-center">
                 <h3 className="font-bold text-lg text-foreground mb-2">Adigambo A. Suleiman</h3>
@@ -219,10 +224,11 @@ export default function AboutPage() {
 
             <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
               <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
-                <div className="text-center">
-                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
-                  <p className="text-xs text-muted-foreground mt-1">Add image here</p>
-                </div>
+                <img 
+                src="/images/ombe.jpg" 
+                alt="Eyeoyagha Ombe"
+                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
+              />
               </div>
               <div className="p-6 text-center">
                 <h3 className="font-bold text-lg text-foreground mb-2">Eyeoyagha Ombe</h3>
@@ -233,7 +239,8 @@ export default function AboutPage() {
 
           {/* Instructions */}
           <div className="mt-12 p-6 rounded-2xl bg-gradient-to-br from-accent/10 to-primary/10 border border-accent/30 text-center">
-            <p className="text-sm font-semibold text-foreground">To add member photos, replace the placeholder areas with image src paths or use the public/images/leadership/ folder to store professional headshots.</p>
+           {/* <p className="text-sm font-semibold text-foreground">To add member photos, replace the placeholder areas with image src paths or use the public/images/leadership/ folder to store professional headshots.</p>
+          */}
           </div>
         </div>
       </section>
