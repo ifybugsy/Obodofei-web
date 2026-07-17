@@ -111,7 +111,7 @@ export default function AboutPage() {
             {/* Row 1 */}
             <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
               <img 
-                src="/images/leadership/michael-akinola.jpg" 
+                src="/images/michael-akinola.jpg" 
                 alt="Engr. Michael Bayo Akinola"
                 className="h-64 md:h-72 w-full object-cover border-b border-border/50"
               />
