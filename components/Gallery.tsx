@@ -188,17 +188,96 @@ export default function Gallery() {
 
     {
       id: '26',
-      src: '/images/',
+      src: '/images/office pics.jpeg',
       alt: '', 
       title: '',
     },
 
     {
       id: '27',
-      src: '/images/',
+      src: '/images/committee group pictures office.jpeg',
       alt: '', 
       title: '',
-    }
+    },
+
+    {
+      id: '28',
+      src: '/images/group pictures 5.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '29',
+      src: '/images/field workers here.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '30',
+      src: '/images/md.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '31',
+      src: '/images/field md.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '32',
+      src: '/images/At the field with workers.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '33',
+      src: '/images/group picture field.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '34',
+      src: '/images/field workers clearing.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '35',
+      src: '/images/group of engineers.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '36',
+      src: '/images/At the forefront.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '36',
+      src: '/images/group pictures of engineers.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '36',
+      src: '/images/engineers .jpeg',
+      alt: '', 
+      title: '',
+    },
+
+
 
 
 
