@@ -21,7 +21,7 @@ export default function AboutPage() {
         title="About Obodofei Integrated Services"
         subtitle="Our Story"
         description="Transforming Nigeria's energy landscape through strategic partnerships and innovative infrastructure solutions."
-        image="/images/about-hero.jpg"
+        image="/images/about-hero-new.png"
       />
 
       {/* Company Overview */}
@@ -110,12 +110,11 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {/* Row 1 */}
             <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
-              <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
-                <div className="text-center">
-                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
-                  <p className="text-xs text-muted-foreground mt-1">Add image here</p>
-                </div>
-              </div>
+              <img 
+                src="/images/leadership/michael-akinola.jpg" 
+                alt="Engr. Michael Bayo Akinola"
+                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
+              />
               <div className="p-6 text-center">
                 <h3 className="font-bold text-lg text-foreground mb-2">Engr. Michael Bayo Akinola</h3>
                 <p className="text-sm font-semibold text-primary">CHAIRMAN</p>
