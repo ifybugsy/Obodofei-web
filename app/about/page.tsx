@@ -96,6 +96,147 @@ export default function AboutPage() {
         </div>
       </section>
 
+      {/* Leadership Team */}
+      <section className="w-full py-16 md:py-24 bg-card">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">Leadership Team</h2>
+            <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
+              Seasoned professionals with deep expertise in energy infrastructure and strategic business development.
+            </p>
+          </div>
+
+          {/* Leadership Members Grid */}
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {/* Row 1 */}
+            <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
+              <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
+                <div className="text-center">
+                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
+                  <p className="text-xs text-muted-foreground mt-1">Add image here</p>
+                </div>
+              </div>
+              <div className="p-6 text-center">
+                <h3 className="font-bold text-lg text-foreground mb-2">Engr. Michael Bayo Akinola</h3>
+                <p className="text-sm font-semibold text-primary">CHAIRMAN</p>
+              </div>
+            </div>
+
+            <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
+              <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
+                <div className="text-center">
+                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
+                  <p className="text-xs text-muted-foreground mt-1">Add image here</p>
+                </div>
+              </div>
+              <div className="p-6 text-center">
+                <h3 className="font-bold text-lg text-foreground mb-2">Hon. Ken Embelede</h3>
+                <p className="text-sm font-semibold text-primary">MANAGING DIRECTOR / CEO</p>
+              </div>
+            </div>
+
+            <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
+              <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
+                <div className="text-center">
+                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
+                  <p className="text-xs text-muted-foreground mt-1">Add image here</p>
+                </div>
+              </div>
+              <div className="p-6 text-center">
+                <h3 className="font-bold text-lg text-foreground mb-2">Prof. Steven Bassey</h3>
+                <p className="text-sm font-semibold text-primary">DIRECTOR, POLICY</p>
+              </div>
+            </div>
+
+            {/* Row 2 */}
+            <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
+              <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
+                <div className="text-center">
+                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
+                  <p className="text-xs text-muted-foreground mt-1">Add image here</p>
+                </div>
+              </div>
+              <div className="p-6 text-center">
+                <h3 className="font-bold text-lg text-foreground mb-2">Engr. Pathfinder Araye</h3>
+                <p className="text-sm text-muted-foreground mb-1">(COREN)</p>
+                <p className="text-sm font-semibold text-primary">DIRECTOR, ENGINEERING</p>
+              </div>
+            </div>
+
+            <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
+              <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
+                <div className="text-center">
+                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
+                  <p className="text-xs text-muted-foreground mt-1">Add image here</p>
+                </div>
+              </div>
+              <div className="p-6 text-center">
+                <h3 className="font-bold text-lg text-foreground mb-2">Mrs. Irene Digitemie Opuene</h3>
+                <p className="text-sm font-semibold text-primary">BOARD DIRECTOR</p>
+              </div>
+            </div>
+
+            <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
+              <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
+                <div className="text-center">
+                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
+                  <p className="text-xs text-muted-foreground mt-1">Add image here</p>
+                </div>
+              </div>
+              <div className="p-6 text-center">
+                <h3 className="font-bold text-lg text-foreground mb-2">Engr. Olumide Modupe</h3>
+                <p className="text-sm font-semibold text-primary">BOARD DIRECTOR</p>
+              </div>
+            </div>
+
+            {/* Row 3 */}
+            <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
+              <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
+                <div className="text-center">
+                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
+                  <p className="text-xs text-muted-foreground mt-1">Add image here</p>
+                </div>
+              </div>
+              <div className="p-6 text-center">
+                <h3 className="font-bold text-lg text-foreground mb-2">Ebizimor Preye Raphael</h3>
+                <p className="text-sm font-semibold text-primary">BOARD DIRECTOR</p>
+              </div>
+            </div>
+
+            <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
+              <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
+                <div className="text-center">
+                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
+                  <p className="text-xs text-muted-foreground mt-1">Add image here</p>
+                </div>
+              </div>
+              <div className="p-6 text-center">
+                <h3 className="font-bold text-lg text-foreground mb-2">Adigambo A. Suleiman</h3>
+                <p className="text-sm font-semibold text-primary">BOARD DIRECTOR</p>
+              </div>
+            </div>
+
+            <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
+              <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
+                <div className="text-center">
+                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
+                  <p className="text-xs text-muted-foreground mt-1">Add image here</p>
+                </div>
+              </div>
+              <div className="p-6 text-center">
+                <h3 className="font-bold text-lg text-foreground mb-2">Eyeoyagha Ombe</h3>
+                <p className="text-sm font-semibold text-primary">Head of Finance</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Instructions */}
+          <div className="mt-12 p-6 rounded-2xl bg-gradient-to-br from-accent/10 to-primary/10 border border-accent/30 text-center">
+            <p className="text-sm font-semibold text-foreground">To add member photos, replace the placeholder areas with image src paths or use the public/images/leadership/ folder to store professional headshots.</p>
+          </div>
+        </div>
+      </section>
+
       {/* Assurance Statement */}
       <section className="w-full py-16 md:py-24 bg-background">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 text-center">
@@ -125,7 +266,7 @@ export default function AboutPage() {
       <section id="our-interests-full" className="w-full py-16 md:py-24 bg-gradient-to-b from-background to-muted/30">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold mb-8 text-foreground">Our Interest</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-8 text-foreground">Our Interests</h2>
             
             <div className="space-y-6 text-lg text-muted-foreground leading-relaxed">
               <p>

@@ -15,6 +15,7 @@ export default function Gallery() {
   // Developer: Add images here by adding new objects to this array
   // Example: { id: '4', src: '/images/gallery/new-image.jpg', alt: 'Description', title: 'Image Title' }
   const [images] = useState<GalleryImage[]>([
+    
     {
       id: '1',
       src: '/images/Surveying.jpeg',
@@ -280,14 +281,6 @@ export default function Gallery() {
 
 
 
-
-
-
-
-
-  
-
-
     // ADD NEW IMAGES HERE - Developer uploads only
     // {
     //   id: '4',
@@ -326,7 +319,7 @@ export default function Gallery() {
         {images.map((image, index) => (
           <div
             key={image.id}
-            className="group relative h-64 md:h-72 rounded-2xl overflow-hidden border border-border/50 cursor-pointer transition-all duration-300 hover:border-primary/50 hover:shadow-xl hover:shadow-primary/20"
+            className="group relative h-80 md:h-96 rounded-2xl overflow-hidden border border-border/50 cursor-pointer transition-all duration-300 hover:border-primary/50 hover:shadow-xl hover:shadow-primary/20"
             onClick={() => {
               setSelectedImage(image)
               setLightboxIndex(index)
@@ -335,7 +328,7 @@ export default function Gallery() {
             <img
               src={image.src}
               alt={image.alt}
-              className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110 group-hover:brightness-110"
+              className="w-full h-full object-contain bg-gray-100 transition-transform duration-500 group-hover:scale-105 group-hover:brightness-110"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
             <div className="absolute inset-0 flex items-end p-6 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
