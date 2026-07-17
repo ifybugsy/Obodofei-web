@@ -128,10 +128,7 @@ export default function AboutPage() {
                 alt="Hon. Ken Embelede"
                 className="h-64 md:h-72 w-full object-cover border-b border-border/50"
               />
-                <div className="text-center">
-                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
-                  <p className="text-xs text-muted-foreground mt-1">Add image here</p>
-                </div>
+                
               </div>
               <div className="p-6 text-center">
                 <h3 className="font-bold text-lg text-foreground mb-2">Hon. Ken Embelede</h3>
