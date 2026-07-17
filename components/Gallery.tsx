@@ -71,8 +71,135 @@ export default function Gallery() {
       id: '9',
       src: '/images/a group photo of officials.jpeg',
       alt: '',
+      title: '',
+    },
+
+    {
+      id: '10',
+      src: '/images/Meeting with Bayelsa state Trade.jpeg',
+      alt: 'Meeting with Bayelsa state Trade',
+      title: 'Meeting with Bayelsa state Ministry of Trade and Investment'
+    }, 
+
+    {
+      id: '11',
+      src: '/images/The chairman.jpeg',
+      alt: '',
+      title: '',
+    }, 
+
+    {
+      id: '12',
+      src: '/images/The chairman.jpeg',
+      alt: '',
       title: ''
+    },
+
+    {
+      id: '13',
+      src: '/images/chaiman sir.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '14',
+      src: '/images/At the field.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '15',
+      src: '/images/filed workers and md.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '16',
+      src: '/images/group picture at the field.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '17',
+      src: '/images/a group picture in the office.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '18',
+      src: '/images/group picture at the office.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '19',
+      src: '/images/at the field 2.jpeg',
+      alt: '', 
+      title: '',
+    }, 
+
+    {
+      id: '20',
+      src: '/images/Great men and Md.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '21',
+      src: '/images/Group picture of MD.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '22',
+      src: '/images/section at presentation.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '23',
+      src: '/images/section of a presentation.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '24',
+      src: '/images/At the work place.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '25',
+      src: '/images/sec.jpeg',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '26',
+      src: '/images/',
+      alt: '', 
+      title: '',
+    },
+
+    {
+      id: '27',
+      src: '/images/',
+      alt: '', 
+      title: '',
     }
+
 
 
 
