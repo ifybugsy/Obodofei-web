@@ -273,7 +273,7 @@ export default function Gallery() {
 
     {
       id: '38',
-      src: '/images/engineers .jpeg',
+      src: '/images/engineers.jpeg',
       alt: '', 
       title: '',
     },
@@ -314,8 +314,8 @@ export default function Gallery() {
     },
 
     {
-      id: '43',
-      src: '/images/vased land for .jpeg',
+      id: '44',
+      src: '/images/vased land for.jpeg',
       alt: '',
       title:'',
     },
