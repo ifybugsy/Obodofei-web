@@ -394,9 +394,7 @@ export default function Gallery() {
         ))}
 
         {/* Developer Notice */}
-        <div className="col-span-1 md:col-span-2 lg:col-span-3 p-6 rounded-2xl bg-gradient-to-br from-accent/10 to-primary/10 border border-accent/30">
-          <p className="text-sm font-semibold text-foreground">Developer: To add more gallery images, edit the Gallery component and add image objects to the images array in the code.</p>
-        </div>
+        
       </div>
 
       {/* Lightbox Modal */}
