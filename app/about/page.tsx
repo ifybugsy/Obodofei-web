@@ -107,20 +107,6 @@ export default function AboutPage() {
           </div>
 
           {/* Leadership Members Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {/* Row 1 */}
-            <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
-              <img 
-                src="/images/michael-akinola.jpg" 
-                alt="Chief Pius Wareyai"
-                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
-              />
-              <div className="p-6 text-center">
-                <h3 className="font-bold text-lg text-foreground mb-2">Chief Pius Wareyai</h3>
-                <p className="text-sm font-semibold text-primary">CHAIRMAN EMERITUS</p>
-              </div>
-            </div>
-
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {/* Row 1 */}
