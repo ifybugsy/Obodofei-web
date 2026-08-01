@@ -69,7 +69,7 @@ The Bayelsa CNG Mother Station is designed to accelerate the transition from liq
             <div className="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent opacity-60 group-hover:opacity-40 transition-opacity duration-300" />
             <div className="absolute bottom-0 left-0 right-0 p-6">
               <h3 className="text-xl md:text-2xl font-bold text-white">Bayelsa CNG Hub Project</h3>
-              <p className="text-sm text-white/80 mt-2">25 MMSCFD Processing + 70 MW Power Generation</p>
+              <p className="text-sm text-white/80 mt-2">100 MMSCFD Processing + 200 MW Power Generation</p>
             </div>
           </div>
         </div>

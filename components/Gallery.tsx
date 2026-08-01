@@ -42,7 +42,7 @@ export default function Gallery() {
     },
     {
       id: '5',
-      src: '/images/pix.jpeg',
+      src: '/images/town construction.jpeg',
       alt: 'Meeting with Officials',
       title: 'meeting'
     },
@@ -224,7 +224,7 @@ export default function Gallery() {
 
     {
       id: '31',
-      src: '/images/field md.jpeg',
+      src: '/images/NNPC union 2.jpeg',
       alt: '', 
       title: '',
     },
@@ -363,52 +363,60 @@ export default function Gallery() {
     },
 
     {
-      id: '50',
+      id: '51',
       src: '/images/with the ceo.jpeg',
       alt: '',
       title: '', 
     },
 
     {
-      id: '50',
+      id: '52',
       src: '/images/in the field of work.jpeg',
       alt: '',
       title: '', 
     },
 
     {
-      id: '50',
+      id: '53',
       src: '/images/in a fine group.jpeg',
       alt: '',
       title: '', 
     },
 
     {
-      id: '50',
+      id: '54',
       src: '/images/empty land field.jpeg',
       alt: '',
       title: '', 
     },
 
     {
-      id: '50',
+      id: '55',
       src: '/images/land fill.jpeg',
       alt: '',
       title: '', 
     },
 
     {
-      id: '50',
+      id: '56',
       src: '/images/in a field of working.jpeg',
       alt: '',
       title: '', 
     },
 
     {
-      id: '50',
+      id: '57',
       src: '/images/sand.jpeg',
       alt: '',
       title: '', 
+    },
+
+    {
+    id: '58',
+    src: '/images/surveying 4.jpeg',
+    alt: '',
+    title: ''
+
     }
 
 

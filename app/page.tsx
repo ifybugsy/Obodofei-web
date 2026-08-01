@@ -52,7 +52,8 @@ export default function Home() {
       title: 'Gas Processing',
       description: 'Advanced CNG processing facility at the forefront of energy commercialization.',
       details: [
-        '25 MMSCFD Compressed Natural Gas processing capacity (Start-up Project)',
+        '100 MMSCFD Compressed Natural Gas Capacity',
+        '25 MMSCFD Compressed Natural Gas (Start-up Project)',
         'State-of-the-art compression technology',
         'CNG trailer filling stations',
         'Gas-delivery pipeline infrastructure',
@@ -64,6 +65,7 @@ export default function Home() {
       title: 'Power Generation',
       description: 'Reliable gas-fired power generation supporting energy transition.',
       details: [
+        '200 Megawatts Gas-fired Power Plant Capacity',
         '70 Megawatt Gas-fired Power Plant (Start-up Project)',
         'Clean energy production',
         'Regional electricity supply',
@@ -129,7 +131,7 @@ export default function Home() {
                 Why Choose Obodofei
               </p>
               <h2 className="text-3xl md:text-4xl font-bold mb-6">
-                More Than a Company, A Partnership
+                More than a company, a partnership
               </h2>
               <p className="text-lg text-muted-foreground mb-6">
                 We distinguish ourselves by being considerably more than a service provider. With our deep expertise in oil & gas, energy, and infrastructure sectors, we&apos;re your strategic partner in achieving competitive advantage.
