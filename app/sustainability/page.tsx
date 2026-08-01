@@ -62,7 +62,7 @@ export default function SustainabilityPage() {
                 </li>
                 <li>
                   <p className="font-semibold mb-1">Power Plant Impact Analysis</p>
-                  <p className="text-sm opacity-90">40 MW gas turbine environmental compliance</p>
+                  <p className="text-sm opacity-90">70 MW gas turbine environmental compliance</p>
                 </li>
                 <li>
                   <p className="font-semibold mb-1">Community Benefit Plans</p>

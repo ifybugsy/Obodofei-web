@@ -11,7 +11,7 @@ export default function ServicesPage() {
       title: 'CNG Processing',
       description: 'State-of-the-art compressed natural gas processing facility.',
       details: [
-        '25 MMSCFD CNG processing capacity',
+        '100 MMSCFD CNG processing capacity',
         'Advanced compression technology',
         'Quality assurance and testing',
         'Compliance with international standards',
@@ -22,7 +22,7 @@ export default function ServicesPage() {
       title: 'Power Generation',
       description: 'Reliable gas-fired electricity generation.',
       details: [
-        '70 Megawatt gas turbine capacity',
+        '200 Megawatt gas turbine capacity',
         'Grid-connected power supply',
         'Industrial power solutions',
         'Backup power systems',

@@ -41,7 +41,7 @@ The Bayelsa CNG Mother Station is designed to accelerate the transition from liq
               </div>
 
               <p className="text-base text-muted-foreground leading-relaxed">
-                One of those partnerships is the Bayelsa State Government Of Nigeria&apos;s interest in providing Obodofei Integrated Services Limited a vast portion of land for an Industrial Park Development, which is one of our innovative strategies for off-takers and our marketing partner Geometric Power ABA Limited, Enugu Electricity Distribution Company (EEDC).
+                One of those partnerships is the Bayelsa State Government Of Nigeria&apos;s interest in providing Obodofei Integrated Services Limited a vast portion of land for an Industrial Park Development, which is one of our innovative strategies for off-takers and our marketing partner Geometric Power ABA Limited.
               </p>
               <p className="text-base text-muted-foreground leading-relaxed">
                 At the heart of our operations is the flagship Bayelsa Gas & CNG Hub Project, which features a 25 MMSCFD Compressed Natural Gas Processing Plant and a 70 Megawatt Gas-Fired Power Plant in Ogboloma Town, Yenagoa, Bayelsa State, Nigeria.
