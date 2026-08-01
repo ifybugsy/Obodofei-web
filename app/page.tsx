@@ -40,8 +40,8 @@ export default function Home() {
   ]
 
   const stats = [
-    { value: '25', label: 'MMSCFD CNG', description: 'Processing Capacity' },
-    { value: '70', label: 'MW Power', description: 'Generation Capacity' },
+    { value: '100', label: 'MMSCFD CNG', description: 'Processing Capacity' },
+    { value: '200', label: 'MW Power', description: 'Generation Capacity' },
     { value: '2011', label: 'Founded', description: 'Year Established' },
     { value: '2', label: 'Offices', description: 'Abuja & Bayelsa' },
   ]
