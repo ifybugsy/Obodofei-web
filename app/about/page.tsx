@@ -141,7 +141,7 @@ export default function AboutPage() {
                 <div className="text-center">
 
                   <img 
-                src="/images/Prof. Bassey stevens.jpg" 
+                src="/images/Prof. Bassey stevens.jpeg" 
                 alt="Prof. Bassey steven"
                 className="h-64 md:h-72 w-full object-cover border-b border-border/50"
               />
@@ -189,7 +189,7 @@ export default function AboutPage() {
                 <div className="text-center">
 
                   <img 
-                src="/images/Modupe.jpg" 
+                src="/images/Modupe.jpeg" 
                 alt="Engr. Olumide Modupe"
                 className="h-64 md:h-72 w-full object-cover border-b border-border/50"
               />
