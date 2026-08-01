@@ -288,7 +288,7 @@ export default function AboutPage() {
               </p>
 
               <p>
-                One of those partnerships is the Bayelsa State Government Of Nigeria&apos;s interest in providing Obodofei Integrated Services Limited a vast portion of land for an Industrial Park Development, which is one of our innovative strategies for off-takers and our marketing partner Geometric Power ABA Limited, Enugu Electricity Distribution Company (EEDC).
+                One of those partnerships is the Bayelsa State Government Of Nigeria&apos;s interest in providing Obodofei Integrated Services Limited a vast portion of land for an Industrial Park Development, which is one of our innovative strategies for off-takers and our marketing partner Geometric Power ABA Limited.
               </p>
 
               <div className="my-8 rounded-2xl overflow-hidden border border-border/50 shadow-lg h-96">
