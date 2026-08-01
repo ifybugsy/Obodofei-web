@@ -29,7 +29,7 @@ export default function ContactPage() {
                 Visit us for inquiries and consultations
               </p>
               <p>
-                +2349130195541
+                +234(0)9130195541
               </p>
             </div>
 

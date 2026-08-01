@@ -46,7 +46,7 @@ export default function ContactForm() {
           <div className="flex gap-3">
             <MapPin className="h-5 w-5 text-primary flex-shrink-0 mt-0.5" />
             <p className="text-sm text-muted-foreground">
-              MARVELLOUS HOUSE, Plot 1309 Kaura District, Behind Dubai Market, Abuja.
+              Marvellous House, Plot 1309 Kaura District, Behind Dubai Market, Abuja.
             </p>
           </div>
           <div className="flex gap-3">
