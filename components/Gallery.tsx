@@ -189,7 +189,7 @@ export default function Gallery() {
 
     {
       id: '26',
-      src: '/images/office pics.jpeg',
+      src: '/images/Chief engr and ceo.jpeg',
       alt: '', 
       title: '',
     },

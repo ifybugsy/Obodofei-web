@@ -49,7 +49,7 @@ export default function ContactPage() {
             <div className="p-8 rounded-2xl bg-gradient-to-br from-accent/10 to-primary/10 border border-accent/20">
               <h3 className="text-xl font-bold text-foreground mb-4">E-mail</h3>
               <p className="text-lg font-semibold text-secondary">
-                contact@oisl.com
+                info@obodofeieltd.com
               </p>
               <p className="text-base text-muted-foreground mt-2">
                 Send us your inquiries anytime
