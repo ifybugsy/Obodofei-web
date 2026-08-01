@@ -117,7 +117,7 @@ export default function AboutPage() {
               />
               <div className="p-6 text-center">
                 <h3 className="font-bold text-lg text-foreground mb-2">Engr. Michael Bayo Akinola</h3>
-                <p className="text-sm font-semibold text-primary">CHAIRMAN</p>
+                <p className="text-sm font-semibold text-primary">CHAIRMAN BOARD OF DIRECTORS</p>
               </div>
             </div>
 
@@ -139,7 +139,7 @@ export default function AboutPage() {
             <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
               <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
                 <div className="text-center">
-                  <p className="text-sm text-muted-foreground">Photo placeholder</p>
+
                   <img 
                 src="/images/Prof. Bassey stevens.jpg" 
                 alt="Prof. Bassey steven"
@@ -187,9 +187,10 @@ export default function AboutPage() {
             <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
               <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
                 <div className="text-center">
+
                   <img 
-                src="/images/high-chief-raphael.jpg" 
-                alt="Ebizimor Preye Raphael"
+                src="/images/Modupe.jpg" 
+                alt="Engr. Olumide Modupe"
                 className="h-64 md:h-72 w-full object-cover border-b border-border/50"
               />
                   
