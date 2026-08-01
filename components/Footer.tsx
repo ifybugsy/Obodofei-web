@@ -57,7 +57,7 @@ export default function Footer() {
             <div className="space-y-3 text-sm">
               <div className="flex gap-2">
                 <MapPin className="h-5 w-5 flex-shrink-0 text-primary mt-0.5" />
-                <p className="text-muted-foreground leading-snug">13 Lord Lugard Street, Asokoro, FCT Abuja, Nigeria</p>
+                <p className="text-muted-foreground leading-snug">Marvellous House, Plot 1309 Kaura District, Behind Dubai Market, Abuja.</p>
               </div>
               <div className="flex gap-2">
                 <Phone className="h-5 w-5 flex-shrink-0 text-primary mt-0.5" />

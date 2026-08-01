@@ -28,9 +28,12 @@ export default function ContactPage() {
               <p className="text-base text-muted-foreground mt-2">
                 Visit us for inquiries and consultations
               </p>
+              <p>
+                +2349130195541
+              </p>
             </div>
 
-            {/* Phone */}
+            {/* Phone 
             <div className="p-8 rounded-2xl bg-gradient-to-br from-secondary/10 to-accent/10 border border-secondary/20">
               <h3 className="text-xl font-bold text-foreground mb-4">Telephone</h3>
               <p className="text-lg font-semibold text-primary">
@@ -40,6 +43,7 @@ export default function ContactPage() {
                 Call us during business hours
               </p>
             </div>
+            */}
 
             {/* Email */}
             <div className="p-8 rounded-2xl bg-gradient-to-br from-accent/10 to-primary/10 border border-accent/20">
