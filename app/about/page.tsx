@@ -118,7 +118,7 @@ export default function AboutPage() {
               />
               <div className="p-6 text-center">
                 <h3 className="font-bold text-lg text-foreground mb-2">Engr. Michael Bayo Akinola</h3>
-                <p className="text-sm font-semibold text-primary">CHAIRMAN BOARD OF DIRECTORS</p>
+                <p className="text-sm font-semibold text-primary">BOARD CHAIRMAN </p>
               </div>
             </div>
 
@@ -181,7 +181,7 @@ export default function AboutPage() {
 
               <div className="p-6 text-center">
                 <h3 className="font-bold text-lg text-foreground mb-2">Mrs. Irene Digitemie Opuene</h3>
-                <p className="text-sm font-semibold text-primary">BOARD DIRECTOR</p>
+                <p className="text-sm font-semibold text-primary">DIRECTOR</p>
               </div>
             </div>
 
@@ -199,7 +199,7 @@ export default function AboutPage() {
               </div>
               <div className="p-6 text-center">
                 <h3 className="font-bold text-lg text-foreground mb-2">Engr. Olumide Modupe</h3>
-                <p className="text-sm font-semibold text-primary">BOARD DIRECTOR</p>
+                <p className="text-sm font-semibold text-primary">DIRECTOR</p>
               </div>
             </div>
 
@@ -214,7 +214,7 @@ export default function AboutPage() {
               </div>
               <div className="p-6 text-center">
                 <h3 className="font-bold text-lg text-foreground mb-2">Ebizimor Preye Raphael</h3>
-                <p className="text-sm font-semibold text-primary">BOARD DIRECTOR</p>
+                <p className="text-sm font-semibold text-primary">DIRECTOR</p>
               </div>
             </div>
 
@@ -228,7 +228,7 @@ export default function AboutPage() {
               </div>
               <div className="p-6 text-center">
                 <h3 className="font-bold text-lg text-foreground mb-2">Adigambo A. Suleiman</h3>
-                <p className="text-sm font-semibold text-primary">BOARD DIRECTOR</p>
+                <p className="text-sm font-semibold text-primary">DIRECTOR</p>
               </div>
             </div>
 
