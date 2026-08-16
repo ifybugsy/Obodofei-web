@@ -149,7 +149,7 @@ export default function AboutPage() {
                 </div>
               </div>
               <div className="p-6 text-center">
-                <h3 className="font-bold text-lg text-foreground mb-2">Prof. Steven Bassey</h3>
+                <h3 className="font-bold text-lg text-foreground mb-2">Prof. Steven Bassey (Phd)</h3>
                 <p className="text-sm font-semibold text-primary">DIRECTOR, POLICY</p>
               </div>
             </div>
@@ -245,7 +245,25 @@ export default function AboutPage() {
                 <p className="text-sm font-semibold text-primary">Head of Finance</p>
               </div>
             </div>
+
+
+
+            <div className="bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-colors">
+              <div className="h-64 md:h-72 bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center border-b border-border/50">
+                <img 
+                src="/images/Eyidenghan, Andrew.jpg" 
+                alt="Eyidenghan, Andrew"
+                className="h-64 md:h-72 w-full object-contain border-b border-border/50"
+              />
+              </div>
+              <div className="p-6 text-center">
+                <h3 className="font-bold text-lg text-foreground mb-2">Eyidenghan, Andrew</h3>
+                <p className="text-sm font-semibold text-primary">Chief Risk & Strategy Officer</p>
+              </div>
+            </div>
           </div>
+
+          
 
         
         </div>
