@@ -114,7 +114,7 @@ export default function AboutPage() {
               <img 
                 src="/images/michael-akinola.jpg" 
                 alt="Engr. Michael Bayo Akinola"
-                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
+                className="h-64 md:h-72 w-full object-contain border-b border-border/50"
               />
               <div className="p-6 text-center">
                 <h3 className="font-bold text-lg text-foreground mb-2">Engr. Michael Bayo Akinola</h3>
@@ -127,7 +127,7 @@ export default function AboutPage() {
               <img 
                 src="/images/ken-embelede.jpg" 
                 alt="Hon. Ken Embelede"
-                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
+                className="h-64 md:h-72 w-full object-contain border-b border-border/50"
               />
                 
               </div>
@@ -144,7 +144,7 @@ export default function AboutPage() {
                   <img 
                 src="/images/Prof. Bassey stevens.jpeg" 
                 alt="Prof. Bassey steven"
-                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
+                className="h-64 md:h-72 w-full object-contain border-b border-border/50"
               />
                 </div>
               </div>
@@ -160,7 +160,7 @@ export default function AboutPage() {
                 <img 
                 src="/images/pathfinder-araye.jpg" 
                 alt="Engr. Pathfinder Araye (COREN)"
-                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
+                className="h-64 md:h-72 w-full object-contain border-b border-border/50"
               />
               </div>
               <div className="p-6 text-center">
@@ -175,7 +175,7 @@ export default function AboutPage() {
                 <img 
                 src="/images/irene-tuguemi.jpg" 
                 alt="Mrs. Irene Digitemie Opuene"
-                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
+                className="h-64 md:h-72 w-full object-contain border-b border-border/50"
               />
               </div>
 
@@ -192,7 +192,7 @@ export default function AboutPage() {
                   <img 
                 src="/images/Modupe.jpeg" 
                 alt="Engr. Olumide Modupe"
-                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
+                className="h-64 md:h-72 w-full object-contain border-b border-border/50"
               />
                   
                 </div>
@@ -209,7 +209,7 @@ export default function AboutPage() {
                 <img 
                 src="/images/high-chief-raphael.jpg" 
                 alt="Ebizimor Preye Raphael"
-                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
+                className="h-64 md:h-72 w-full object-contain border-b border-border/50"
               />
               </div>
               <div className="p-6 text-center">
@@ -223,7 +223,7 @@ export default function AboutPage() {
                 <img 
                 src="/images/suileman.jpg" 
                 alt="Adigambo A. Suleiman"
-                className="h-64 md:h-72 w-full object-cover border-b border-border/50"
+                className="h-64 md:h-72 w-full object-contain border-b border-border/50"
               />
               </div>
               <div className="p-6 text-center">
